@@ -1,0 +1,15 @@
+# Certificate Related
+*cer
+*cnf
+*crl
+*crt
+*csr
+*ext
+*srl
+*key
+*pfx
+
+# Package
+*.exe
+*.zip
+
